@@ -105,17 +105,6 @@ A linked list is a collection of “nodes” connected together via links. These
 
 A singly linked list is a data structure that consists of elements called nodes, where each node points to the next node in the sequence. It is called "singly" because each node has a single reference to the next node.
 
-  
-
-We will create a SinglyLinkedList class in TypeScript with the following features:
-
-1.  A `Node` class to represent each element in the list
-2.  `length` property to keep track of the list size
-3.  `head` property to keep track of the first element in the list
-4.  `add` method to add a new node at the end of the list
-5.  `remove` method to remove a node by its value
-6.  `find` method to find a node by its value
-7.  `toArray` method to convert the list into an array for easy inspection
 
 ### Doubly Linked List
 
